@@ -1,0 +1,17 @@
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\bin\Debug\net8.0-windows\Production Counter.exe
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\bin\Debug\net8.0-windows\Production Counter.deps.json
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\bin\Debug\net8.0-windows\Production Counter.runtimeconfig.json
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\bin\Debug\net8.0-windows\Production Counter.dll
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\bin\Debug\net8.0-windows\Production Counter.pdb
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production_Counter.Form1.resources
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.csproj.GenerateResource.cache
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.AssemblyInfoInputs.cache
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.AssemblyInfo.cs
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.csproj.CoreCompileInputs.cache
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.dll
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\refint\Production Counter.dll
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.pdb
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\Production Counter.genruntimeconfig.cache
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\ref\Production Counter.dll
+D:\CShap_Study\PJ_Wood\Production Counter\Production Counter\obj\Debug\net8.0-windows\ProductionCounterApp.ProductionCounterForm.resources
